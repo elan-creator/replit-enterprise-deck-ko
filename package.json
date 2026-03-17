@@ -1,0 +1,14 @@
+{
+  "name": "replit-enterprise-deck-ko",
+  "version": "1.0.0",
+  "description": "Replit Enterprise Deck - Korean Translation (한국어 번역)",
+  "type": "module",
+  "scripts": {
+    "dev": "python3 -m http.server 8080",
+    "start": "python3 -m http.server 8080",
+    "translate": "python3 translate.py"
+  },
+  "keywords": ["replit", "enterprise", "presentation", "korean"],
+  "author": "",
+  "license": "MIT"
+}
